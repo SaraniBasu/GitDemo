@@ -34,6 +34,10 @@ public class OAuthValidation {
 		System.out.println("postJira2");
 		System.out.println("postJira3");
 		
+		System.out.println("postJira4");
+		System.out.println("postJira5");
+		System.out.println("postJira6");
+		
 		/*
 		System.setProperty("webdriver.chrome.driver", "D:/REST API Documents/chromedriver_win32/chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
