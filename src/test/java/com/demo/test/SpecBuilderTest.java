@@ -19,6 +19,7 @@ public class SpecBuilderTest {
 	@Test
 	public void serializeTest()
 	{
+		System.out.println("postJira6");
 		AddPlace obj = new AddPlace();
 		obj.setAccuracy(50);
 		obj.setAddress("29, side layout, cohen 09");
