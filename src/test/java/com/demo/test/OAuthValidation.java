@@ -30,6 +30,10 @@ public class OAuthValidation {
 		
 		String[] courseTitle = {"Selenium Webdriver Java", "Cypress", "Protractor"};
 		
+		System.out.println("postJira");
+		System.out.println("postJira2");
+		System.out.println("postJira3");
+		
 		/*
 		System.setProperty("webdriver.chrome.driver", "D:/REST API Documents/chromedriver_win32/chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
