@@ -42,6 +42,9 @@ public class OAuthValidation {
 		
 		System.out.println("test 1");
 		System.out.println("test 2");
+
+		System.out.println("test 3");
+		System.out.println("test 4");
 		
 		/*
 		System.setProperty("webdriver.chrome.driver", "D:/REST API Documents/chromedriver_win32/chromedriver.exe");
